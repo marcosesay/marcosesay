@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a0b2e"/>
+      <stop offset="1" stop-color="#2d0f3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="200" rx="14" fill="url(#g)"/>
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">DJ Library Organizer</text>
+    <text x="46" y="116" font-size="16" fill="#e2c6f2">Harmonic crates, named by Claude, exported to rekordbox.</text>
+    <text x="46" y="160" font-size="12" fill="#a77fc4" letter-spacing="1.2">REACT · NODE · CLAUDE API · CAMELOT WHEEL</text>
+  </g>
+  <!-- Camelot wheel -->
+  <g transform="translate(720,100)">
+    <circle r="78" fill="none" stroke="#5b2a7a" stroke-width="22"/>
+    <circle r="46" fill="none" stroke="#3f1c58" stroke-width="18"/>
+    <g fill="none" stroke-width="22">
+      <path d="M0,-78 A78,78 0 0,1 67.5,-39" stroke="#ff4fa3"/>
+      <path d="M67.5,-39 A78,78 0 0,1 78,0" stroke="#ff8a4f" />
+    </g>
+    <path d="M0,-46 A46,46 0 0,1 39.8,-23" fill="none" stroke="#c25cff" stroke-width="18"/>
+    <text x="0" y="6" text-anchor="middle" font-family="SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700" fill="#ffffff">8A</text>
+  </g>
+</svg>

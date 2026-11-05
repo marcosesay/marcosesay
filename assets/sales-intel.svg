@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <rect width="880" height="200" rx="14" fill="#0f1b33"/>
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">Sales Intelligence</text>
+    <text x="46" y="116" font-size="16" fill="#b7c6ea">A briefing for every meeting, before you walk in.</text>
+    <text x="46" y="160" font-size="12" fill="#6f84b8" letter-spacing="1.2">WATSONX · CLAUDE · POSTGRES · MCP · IBM CODE ENGINE</text>
+  </g>
+  <g transform="translate(560,34)" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <rect width="280" height="132" rx="10" fill="#f6f8fd"/>
+    <rect x="14" y="14" width="96" height="20" rx="10" fill="#0f62fe"/>
+    <text x="26" y="28" font-size="11" font-weight="700" fill="#fff">Start Here</text>
+    <rect x="118" y="14" width="110" height="20" rx="10" fill="#dfe7fb"/>
+    <text x="128" y="28" font-size="11" font-weight="700" fill="#0f62fe">Why IBM Wins</text>
+    <rect x="14" y="48" width="230" height="8" rx="4" fill="#c7d2ea"/>
+    <rect x="14" y="64" width="200" height="8" rx="4" fill="#c7d2ea"/>
+    <rect x="14" y="80" width="244" height="8" rx="4" fill="#c7d2ea"/>
+    <text x="14" y="114" font-size="11" fill="#3a4a6e">Play 1 · Play 2 · Play 3</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <rect width="880" height="200" rx="14" fill="#0c2421"/>
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">Outbreak Signal</text>
+    <text x="46" y="116" font-size="16" fill="#b9e6dc">WHO outbreak reports, summarized into signals you can act on.</text>
+    <text x="46" y="160" font-size="12" fill="#6fb3a3" letter-spacing="1.2">IN PROGRESS · PYTHON · CLAUDE API</text>
+  </g>
+  <g transform="translate(560,40)">
+    <rect width="280" height="120" rx="10" fill="#10332e" stroke="#1f5a50"/>
+    <polyline points="16,92 56,88 90,80 120,84 150,62 180,66 210,38 240,44 264,22" fill="none" stroke="#3fe0b5" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="264" cy="22" r="5" fill="#ffd166"/>
+    <line x1="16" y1="104" x2="264" y2="104" stroke="#1f5a50"/>
+  </g>
+</svg>
