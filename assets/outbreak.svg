@@ -1,14 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
-  <rect width="880" height="200" rx="14" fill="#0c2421"/>
-  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">Outbreak Signal</text>
-    <text x="46" y="116" font-size="16" fill="#b9e6dc">WHO outbreak reports, summarized into signals you can act on.</text>
-    <text x="46" y="160" font-size="12" fill="#6fb3a3" letter-spacing="1.2">IN PROGRESS · PYTHON · CLAUDE API</text>
-  </g>
-  <g transform="translate(560,40)">
-    <rect width="280" height="120" rx="10" fill="#10332e" stroke="#1f5a50"/>
-    <polyline points="16,92 56,88 90,80 120,84 150,62 180,66 210,38 240,44 264,22" fill="none" stroke="#3fe0b5" stroke-width="3" stroke-linejoin="round"/>
-    <circle cx="264" cy="22" r="5" fill="#ffd166"/>
-    <line x1="16" y1="104" x2="264" y2="104" stroke="#1f5a50"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#0B0F17"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
+  <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">03 · PUBLIC HEALTH × AI</text>
+    <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">Outbreak Signal</text>
+    <text x="60" y="160" font-size="18" fill="#C3CAD8">WHO outbreak reports, distilled into structured signals.</text>
+    <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">PYTHON · CLAUDE API</text>
+    <rect x="698" y="58" width="112.19999999999999" height="24" rx="12" fill="none" stroke="#2A3346"/><circle cx="711" cy="70" r="3.5" fill="#F2C14E"/><text x="721" y="74.5" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8A93A6">IN PROGRESS</text>
+    <line x1="707.0" y1="128" x2="913.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="700.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="700.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">WHO</text><text x="700.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">reports</text><line x1="927.0" y1="128" x2="1133.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="920.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="920.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Claude</text><text x="920.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">extraction</text><circle cx="1140.0" cy="128" r="6" fill="#5B8CFF" stroke="#5B8CFF" stroke-width="1.5"/><text x="1140.0" y="158" text-anchor="middle" font-size="12.5" fill="#E8ECF3">Structured</text><text x="1140.0" y="174" text-anchor="middle" font-size="12.5" fill="#E8ECF3">signals</text>
   </g>
 </svg>

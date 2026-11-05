@@ -1,25 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1a0b2e"/>
-      <stop offset="1" stop-color="#2d0f3d"/>
-    </linearGradient>
-  </defs>
-  <rect width="880" height="200" rx="14" fill="url(#g)"/>
-  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">DJ Library Organizer</text>
-    <text x="46" y="116" font-size="16" fill="#e2c6f2">Harmonic crates, named by Claude, exported to rekordbox.</text>
-    <text x="46" y="160" font-size="12" fill="#a77fc4" letter-spacing="1.2">REACT · NODE · CLAUDE API · CAMELOT WHEEL</text>
-  </g>
-  <!-- Camelot wheel -->
-  <g transform="translate(720,100)">
-    <circle r="78" fill="none" stroke="#5b2a7a" stroke-width="22"/>
-    <circle r="46" fill="none" stroke="#3f1c58" stroke-width="18"/>
-    <g fill="none" stroke-width="22">
-      <path d="M0,-78 A78,78 0 0,1 67.5,-39" stroke="#ff4fa3"/>
-      <path d="M67.5,-39 A78,78 0 0,1 78,0" stroke="#ff8a4f" />
-    </g>
-    <path d="M0,-46 A46,46 0 0,1 39.8,-23" fill="none" stroke="#c25cff" stroke-width="18"/>
-    <text x="0" y="6" text-anchor="middle" font-family="SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700" fill="#ffffff">8A</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#0B0F17"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
+  <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">02 · APPLIED AI</text>
+    <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">DJ Library Organizer</text>
+    <text x="60" y="160" font-size="18" fill="#C3CAD8">Harmonic crates from a raw library, named by Claude.</text>
+    <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">REACT · NODE · CLAUDE API · REKORDBOX XML</text>
+    <rect x="698" y="58" width="79.39999999999999" height="24" rx="12" fill="none" stroke="#2A3346"/><circle cx="711" cy="70" r="3.5" fill="#3FD69B"/><text x="721" y="74.5" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8A93A6">SHIPPED</text>
+    <line x1="707.0" y1="128" x2="839.6666666666666" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="700.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="700.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Local</text><text x="700.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">library</text><line x1="853.6666666666666" y1="128" x2="986.3333333333333" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="846.6666666666666" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="846.6666666666666" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Camelot</text><text x="846.6666666666666" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">clustering</text><line x1="1000.3333333333333" y1="128" x2="1133.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="993.3333333333333" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="993.3333333333333" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Claude</text><text x="993.3333333333333" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">naming</text><circle cx="1140.0" cy="128" r="6" fill="#5B8CFF" stroke="#5B8CFF" stroke-width="1.5"/><text x="1140.0" y="158" text-anchor="middle" font-size="12.5" fill="#E8ECF3">rekordbox</text><text x="1140.0" y="174" text-anchor="middle" font-size="12.5" fill="#E8ECF3">export</text>
   </g>
 </svg>

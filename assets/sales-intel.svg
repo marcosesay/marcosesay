@@ -1,19 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
-  <rect width="880" height="200" rx="14" fill="#0f1b33"/>
-  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="44" y="82" font-size="38" font-weight="800" fill="#ffffff">Sales Intelligence</text>
-    <text x="46" y="116" font-size="16" fill="#b7c6ea">A briefing for every meeting, before you walk in.</text>
-    <text x="46" y="160" font-size="12" fill="#6f84b8" letter-spacing="1.2">WATSONX · CLAUDE · POSTGRES · MCP · IBM CODE ENGINE</text>
-  </g>
-  <g transform="translate(560,34)" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
-    <rect width="280" height="132" rx="10" fill="#f6f8fd"/>
-    <rect x="14" y="14" width="96" height="20" rx="10" fill="#0f62fe"/>
-    <text x="26" y="28" font-size="11" font-weight="700" fill="#fff">Start Here</text>
-    <rect x="118" y="14" width="110" height="20" rx="10" fill="#dfe7fb"/>
-    <text x="128" y="28" font-size="11" font-weight="700" fill="#0f62fe">Why IBM Wins</text>
-    <rect x="14" y="48" width="230" height="8" rx="4" fill="#c7d2ea"/>
-    <rect x="14" y="64" width="200" height="8" rx="4" fill="#c7d2ea"/>
-    <rect x="14" y="80" width="244" height="8" rx="4" fill="#c7d2ea"/>
-    <text x="14" y="114" font-size="11" fill="#3a4a6e">Play 1 · Play 2 · Play 3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#0B0F17"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
+  <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">01 · SALES ENGINEERING</text>
+    <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">Sales Intelligence</text>
+    <text x="60" y="160" font-size="18" fill="#C3CAD8">Seller-ready account briefings, grounded in live research.</text>
+    <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">REACT · TYPESCRIPT · NODE · POSTGRES · WATSONX · CLAUDE · MCP</text>
+    <rect x="698" y="58" width="54.8" height="24" rx="12" fill="none" stroke="#2A3346"/><circle cx="711" cy="70" r="3.5" fill="#3FD69B"/><text x="721" y="74.5" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8A93A6">LIVE</text>
+    <line x1="707.0" y1="128" x2="839.6666666666666" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="700.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="700.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Live</text><text x="700.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">research</text><line x1="853.6666666666666" y1="128" x2="986.3333333333333" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="846.6666666666666" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="846.6666666666666" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">watsonx +</text><text x="846.6666666666666" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">Claude</text><line x1="1000.3333333333333" y1="128" x2="1133.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="993.3333333333333" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="993.3333333333333" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Critic</text><text x="993.3333333333333" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">pass</text><circle cx="1140.0" cy="128" r="6" fill="#5B8CFF" stroke="#5B8CFF" stroke-width="1.5"/><text x="1140.0" y="158" text-anchor="middle" font-size="12.5" fill="#E8ECF3">Briefing</text><text x="1140.0" y="174" text-anchor="middle" font-size="12.5" fill="#E8ECF3">+ MCP</text>
   </g>
 </svg>
