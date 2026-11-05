@@ -1,40 +1,42 @@
-<img src="assets/header.svg" alt="Marco Sesay, Solutions Engineer, Data & AI at IBM" width="100%">
+<img src="assets/profile-header.svg" alt="Marco Sesay, Solutions Engineer, Data & AI at IBM" width="100%">
 
-I'm a Solutions Engineer on IBM's Data & AI team in New York, covering 500+ accounts across every industry with watsonx, Guardium, DataStax and Confluent. I hit 150% of a $4M quota in 2026. On the side I build the tools I want to exist, mostly LLM apps that make sellers and engineers faster.
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn"></a>
+  <a href="https://substack.com/@marcosesay"><img src="https://img.shields.io/badge/Substack-0B0F17?style=for-the-badge&logo=substack&logoColor=5B8CFF" alt="Substack"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=5B8CFF" alt="Email"></a>
+</p>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Substack](https://YOUR-SUBSTACK.substack.com) · [Email](mailto:YOUR-EMAIL)
+I design data and AI architecture for enterprise clients at IBM across financial services, healthcare and the public sector in New York. My work spans the full lifecycle of an engagement: scoping the data platform, building the proof of concept, and structuring embedded solution agreements where clients run IBM technology inside their own products. Before IBM I worked on healthcare data compliance at Datavant, customer experience analytics at Cisco, and data risk at PwC.
 
-## Things I've built
+Alongside client work, I develop and maintain AI tooling used in the field. Selected projects are below.
+
+## Featured projects
 
 <a href="https://github.com/marcosesay/IBM-sales-intelligence"><img src="assets/sales-intel.svg" alt="Sales Intelligence" width="100%"></a>
 
-**[Sales Intelligence](https://github.com/marcosesay/IBM-sales-intelligence)** turns a company name and a contact into a seller-ready pre-meeting briefing: a "Start Here" summary, a "Why IBM Wins" angle, parsed sales plays, and a generated architecture diagram. Generation runs on watsonx (Llama 3.3 70B) with a critic pass, plus a Claude path, grounded by live research and an IBM product reference to cut hallucinated specs. It also ships as an MCP server so Claude can look up products and pull past briefings directly. Live and used by IBM sellers. Built with React, TypeScript, Node/Express, Postgres, Vitest and IBM Code Engine.
+**[Sales Intelligence](https://github.com/marcosesay/IBM-sales-intelligence).** Generates a seller-ready briefing for any account: an executive summary, a competitive angle, sales plays and a proposed architecture diagram. Research is pulled live, generation runs on watsonx (Llama 3.3 70B) or Claude, and a critic pass checks output against a curated IBM product reference to suppress hallucinated specs. Exposed as an MCP server so agents can query products and past briefings directly. In production on IBM Code Engine with Postgres, covered by a Vitest suite, and used by IBM field sellers.
 
 <a href="https://github.com/marcosesay/YOUR-DJ-REPO"><img src="assets/dj-library.svg" alt="DJ Library Organizer" width="100%"></a>
 
-**[DJ Library Organizer](https://github.com/marcosesay/YOUR-DJ-REPO)** clusters a local music library by Camelot key so tracks in a crate mix harmonically, has Claude name the playlists, and exports straight to rekordbox XML and .m3u8. I DJ in New York and built this for my own sets. I wrote about it [on Substack](https://YOUR-SUBSTACK.substack.com). Built with React, Node and the Claude API.
+**[DJ Library Organizer](https://github.com/marcosesay/YOUR-DJ-REPO).** Turns an unstructured local music library into harmonically compatible crates using Camelot key clustering, has Claude name each playlist, and exports to rekordbox XML and .m3u8. Built for my own sets as a working DJ in New York. [Write-up on Substack](https://substack.com/@marcosesay).
 
-<a href="https://github.com/marcosesay/YOUR-OUTBREAK-REPO"><img src="assets/outbreak.svg" alt="Outbreak Signal Summarizer" width="100%"></a>
+<a href="https://github.com/marcosesay/YOUR-OUTBREAK-REPO"><img src="assets/outbreak.svg" alt="Outbreak Signal" width="100%"></a>
 
-**[Outbreak Signal Summarizer](https://github.com/marcosesay/YOUR-OUTBREAK-REPO)** reads WHO outbreak reports and uses Claude to turn them into short, structured signals. It pulls on my public health degree and my time working on medical records compliance at Datavant. In progress.
+**[Outbreak Signal](https://github.com/marcosesay/YOUR-OUTBREAK-REPO).** Ingests WHO Disease Outbreak News and uses Claude to extract structured signals: pathogen, location, case counts and severity. Draws on my public health training and healthcare data experience. In active development.
 
-## More work
+## Additional work
 
-| Project | What it is | Tools |
-|---|---|---|
-| [LLM Evaluation Framework](https://github.com/marcosesay/YOUR-EVAL-REPO) | ONE LINE ON WHAT IT EVALUATES AND HOW | Python |
-| Apollo 11 Query Tool | RAG over 400+ Apollo 11 documents, deployed on Red Hat OpenShift (contributor) | Python, Chroma, OpenAI, OpenShift |
-| Guardium cryptography demo | Custom demo for an embedded solution deal that closed at $800K | IBM Guardium |
-
-## What I work with
-
-| Area | Tools |
+| | |
 |---|---|
-| Data & AI | watsonx.ai, watsonx.data, watsonx.governance, DataStage, DataStax, Confluent |
-| Data security | IBM Guardium, data governance, HIPAA-compliant deployments |
-| AI engineering | RAG, evals, MCP, agents, Claude API, watsonx |
-| Cloud | IBM Code Engine, Red Hat OpenShift, Docker, Postgres |
-| Languages | Python, TypeScript, SQL, Java, R |
-| GTM | Salesforce, SalesLoft, SQL analytics |
+| **LLM Evaluation Framework** | ONE LINE ON WHAT IT EVALUATES AND HOW |
+| **Apollo 11 knowledge base** | Contributor to a RAG system over 400+ mission documents, deployed on Red Hat OpenShift |
 
-**Certifications:** 30+ IBM certifications including the watsonx suite · PMI Certified Associate in Project Management (CAPM)
+## Stack
+
+**Data & AI** · watsonx.ai, watsonx.data, watsonx.governance, DataStage, DataStax, Confluent<br>
+**Security** · IBM Guardium, data governance, HIPAA-compliant architecture<br>
+**AI engineering** · RAG, evals, MCP, agents, Claude API<br>
+**Infrastructure** · IBM Cloud Code Engine, Red Hat OpenShift, Docker, PostgreSQL<br>
+**Languages** · Python, TypeScript, SQL, Java, R
+
+<sub>30+ IBM certifications including the watsonx suite · PMI Certified Associate in Project Management</sub>
