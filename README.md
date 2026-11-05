@@ -1,7 +1,7 @@
-<img src="assets/profile-header.svg" alt="Marco Sesay, Solutions Engineer, Data & AI at IBM" width="100%">
+<img src="assets/profile-header.svg" alt="Marco Sesay, Data & AI Solutions Engineer at IBM" width="100%">
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/marcosesay"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn"></a>
   <a href="https://substack.com/@marcosesay"><img src="https://img.shields.io/badge/Substack-0B0F17?style=for-the-badge&logo=substack&logoColor=5B8CFF" alt="Substack"></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=5B8CFF" alt="Email"></a>
 </p>
@@ -20,9 +20,9 @@ Alongside client work, I develop and maintain AI tooling used in the field. Sele
 
 **[DJ Library Organizer](https://github.com/marcosesay/YOUR-DJ-REPO).** Turns an unstructured local music library into harmonically compatible crates using Camelot key clustering, has Claude name each playlist, and exports to rekordbox XML and .m3u8. Built for my own sets as a working DJ in New York. [Write-up on Substack](https://substack.com/@marcosesay).
 
-<a href="https://github.com/marcosesay/YOUR-OUTBREAK-REPO"><img src="assets/outbreak.svg" alt="Outbreak Signal" width="100%"></a>
+<a href="https://github.com/marcosesay/outbreak-signal-summarizer"><img src="assets/outbreak.svg" alt="Outbreak Signal" width="100%"></a>
 
-**[Outbreak Signal](https://github.com/marcosesay/YOUR-OUTBREAK-REPO).** Ingests WHO Disease Outbreak News and uses Claude to extract structured signals: pathogen, location, case counts and severity. Draws on my public health training and healthcare data experience. In active development.
+**[Outbreak Signal](https://github.com/marcosesay/outbreak-signal-summarizer).** Ingests WHO Disease Outbreak News and uses Claude to extract structured signals: pathogen, location, case counts and severity. Draws on my public health training and healthcare data experience. In active development.
 
 ## Additional work
 
