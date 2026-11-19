@@ -3,7 +3,7 @@
 <p>
   <a href="https://www.linkedin.com/in/marcosesay"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn"></a>
   <a href="https://substack.com/@marcosesay"><img src="https://img.shields.io/badge/Substack-0B0F17?style=for-the-badge&logo=substack&logoColor=5B8CFF" alt="Substack"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=5B8CFF" alt="Email"></a>
+  <a href="mailto:marcosesay17@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=5B8CFF" alt="Email"></a>
 </p>
 
 I design data and AI architecture for enterprise clients at IBM across financial services, healthcare and the public sector in New York. My work spans the full lifecycle of an engagement: scoping the data platform, building the proof of concept, and structuring embedded solution agreements where clients run IBM technology inside their own products. Before IBM I worked on healthcare data compliance at Datavant, customer experience analytics at Cisco, and data risk at PwC.
@@ -11,6 +11,10 @@ I design data and AI architecture for enterprise clients at IBM across financial
 Alongside client work, I develop and maintain AI tooling used in the field. Selected projects are below.
 
 ## Featured projects
+
+<a href="https://github.com/marcosesay/evals-lab-demo-to-production"><img src="assets/evals-lab.svg" alt="Evals Lab" width="100%"></a>
+
+**[Evals Lab](https://github.com/marcosesay/evals-lab-demo-to-production).** A hands-on workshop for taking an enterprise AI agent from demo to production. A policy copilot for a fictional bank, built with Codex on the OpenAI Agents SDK and file search, is graded on 26 cases, including trap questions on topics the policy manual never covers. Grading is hybrid: an LLM judge scores correctness and refusals, and a deterministic check scores citations. Three versions tell the story: a naive prompt passed 38%, prompt engineering 58%, and structured outputs 100%, after the eval suite caught a refusal regression the structured-output change introduced. Packaged as a lab guide a customer engineering team can follow.
 
 <a href="https://github.com/marcosesay/IBM-sales-intelligence"><img src="assets/sales-intel.svg" alt="Sales Intelligence" width="100%"></a>
 
@@ -35,7 +39,7 @@ Alongside client work, I develop and maintain AI tooling used in the field. Sele
 
 **Data & AI** · watsonx.ai, watsonx.data, watsonx.governance, DataStage, DataStax, Confluent<br>
 **Security** · IBM Guardium, data governance, HIPAA-compliant architecture<br>
-**AI engineering** · RAG, evals, MCP, agents, Claude API<br>
+**AI engineering** · RAG, evals, MCP, agents, OpenAI API and Agents SDK, Codex, Claude API<br>
 **Infrastructure** · IBM Cloud Code Engine, Red Hat OpenShift, Docker, PostgreSQL<br>
 **Languages** · Python, TypeScript, SQL, Java, R
 

@@ -3,7 +3,7 @@
   <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
   <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
   <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">02 · APPLIED AI</text>
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">03 · APPLIED AI</text>
     <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">DJ Library Organizer</text>
     <text x="60" y="160" font-size="18" fill="#C3CAD8">Harmonic crates from a raw library, named by Claude.</text>
     <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">REACT · NODE · CLAUDE API · REKORDBOX XML</text>
