@@ -32,7 +32,6 @@ Alongside client work, I develop and maintain AI tooling used in the field. Sele
 
 | | |
 |---|---|
-| **LLM Evaluation Framework** | ONE LINE ON WHAT IT EVALUATES AND HOW |
 | **Apollo 11 knowledge base** | Contributor to a RAG system over 400+ mission documents, deployed on Red Hat OpenShift |
 
 ## Stack
