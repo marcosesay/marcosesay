@@ -10,15 +10,11 @@
 <line x1="64" y1="350" x2="1136" y2="350" stroke="#24262C"/>
 <text x="64" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">500<tspan fill="#4C7DFF">+</tspan></text>
 <text x="64" y="428" font-size="14" font-weight="400" fill="#8B909C">named enterprise accounts</text>
-<line x1="332" y1="350" x2="332" y2="450" stroke="#24262C"/>
-<text x="356" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">150<tspan fill="#4C7DFF">%</tspan></text>
-<text x="356" y="428" font-size="14" font-weight="400" fill="#8B909C">quota attainment</text>
-<line x1="600" y1="350" x2="600" y2="450" stroke="#24262C"/>
-<text x="624" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">30<tspan fill="#4C7DFF">+</tspan></text>
-<text x="624" y="428" font-size="14" font-weight="400" fill="#8B909C">IBM certifications</text>
-<line x1="868" y1="350" x2="868" y2="450" stroke="#24262C"/>
-<text x="892" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">1<tspan fill="#4C7DFF">st</tspan></text>
-<text x="892" y="428" font-size="14" font-weight="400" fill="#8B909C">HIPAA-compliant watsonx.data</text>
-<text x="892" y="448" font-size="14" font-weight="400" fill="#8B909C">deployment</text>
+<line x1="421" y1="350" x2="421" y2="450" stroke="#24262C"/>
+<text x="445" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">30<tspan fill="#4C7DFF">+</tspan></text>
+<text x="445" y="428" font-size="14" font-weight="400" fill="#8B909C">IBM certifications</text>
+<line x1="779" y1="350" x2="779" y2="450" stroke="#24262C"/>
+<text x="803" y="400" font-size="40" font-weight="600" letter-spacing="-1.5" fill="#FFFFFF">1<tspan fill="#4C7DFF">st</tspan></text>
+<text x="803" y="428" font-size="14" font-weight="400" fill="#8B909C">HIPAA-compliant watsonx.data deployment</text>
 </g>
 </svg>

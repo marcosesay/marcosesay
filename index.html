@@ -49,7 +49,7 @@ h1 .name { color: var(--blue); white-space: nowrap; }
 .meta a { border-bottom: 1px solid var(--ink); padding-bottom: 2px; }
 .meta a:hover { border-color: var(--blue); }
 
-.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 1px solid var(--line); }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 1px solid var(--line); }
 .stat { padding: 24px 24px 0 0; display: flex; flex-direction: column; gap: 6px; }
 .stat + .stat { padding-left: 24px; border-left: 1px solid var(--line); }
 .stat b { font-family: var(--head); font-weight: 500; font-size: 40px; letter-spacing: -0.04em; line-height: 1; }
@@ -133,8 +133,6 @@ body.locked { overflow: hidden; }
 
 @media (max-width: 900px) {
   .project, .role { grid-template-columns: 1fr; }
-  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .stat:nth-child(3) { padding-left: 0; border-left: 0; }
 }
 @media (max-width: 640px) {
   .wrap { padding: 24px 20px 32px; gap: 88px; }
@@ -174,7 +172,6 @@ body.locked { overflow: hidden; }
   </div>
   <div class="stats">
     <div class="stat"><b>500<em>+</em></b><span>named enterprise accounts</span></div>
-    <div class="stat"><b>150<em>%</em></b><span>quota attainment</span></div>
     <div class="stat"><b>30<em>+</em></b><span>IBM certifications</span></div>
     <div class="stat"><b>1<em>st</em></b><span>HIPAA-compliant watsonx.data deployment</span></div>
   </div>
