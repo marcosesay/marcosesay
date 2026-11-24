@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214">
-<rect width="1200" height="214" rx="14" fill="#000000"/>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<text x="64" y="84" font-size="32" font-weight="600" letter-spacing="-1" fill="#FFFFFF">DJ Library Organizer</text>
-<text x="64" y="120" font-size="15" fill="#4C7DFF">View project →</text>
-<text x="64" y="150" font-size="14" fill="#8B909C">Write-up on Substack</text>
-<text x="440" y="62" font-size="17" font-weight="400" fill="#D4D7DE">Turns an unstructured local music library into harmonically compatible</text>
-<text x="440" y="88" font-size="17" font-weight="400" fill="#D4D7DE">crates using Camelot key clustering, has Claude name each playlist, and</text>
-<text x="440" y="115" font-size="17" font-weight="400" fill="#D4D7DE">exports to rekordbox. Built for my own sets as a working DJ in New York.</text>
-<rect x="440" y="144" width="62" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="471" y="164" font-size="13" fill="#D4D7DE" text-anchor="middle">React</text>
-<rect x="510" y="144" width="77" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="549" y="164" font-size="13" fill="#D4D7DE" text-anchor="middle">Node.js</text>
-<rect x="595" y="144" width="99" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="645" y="164" font-size="13" fill="#D4D7DE" text-anchor="middle">Claude API</text>
-<rect x="702" y="144" width="121" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="762" y="164" font-size="13" fill="#D4D7DE" text-anchor="middle">rekordbox XML</text>
-<rect x="831" y="144" width="121" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="891" y="164" font-size="13" fill="#D4D7DE" text-anchor="middle">Camelot wheel</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#0B0F17"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
+  <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">03 · APPLIED AI</text>
+    <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">DJ Library Organizer</text>
+    <text x="60" y="160" font-size="18" fill="#C3CAD8">Harmonic crates from a raw library, named by Claude.</text>
+    <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">REACT · NODE · CLAUDE API · REKORDBOX XML</text>
+    <rect x="698" y="58" width="79.39999999999999" height="24" rx="12" fill="none" stroke="#2A3346"/><circle cx="711" cy="70" r="3.5" fill="#3FD69B"/><text x="721" y="74.5" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8A93A6">SHIPPED</text>
+    <line x1="707.0" y1="128" x2="839.6666666666666" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="700.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="700.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Local</text><text x="700.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">library</text><line x1="853.6666666666666" y1="128" x2="986.3333333333333" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="846.6666666666666" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="846.6666666666666" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Camelot</text><text x="846.6666666666666" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">clustering</text><line x1="1000.3333333333333" y1="128" x2="1133.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="993.3333333333333" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="993.3333333333333" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Claude</text><text x="993.3333333333333" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">naming</text><circle cx="1140.0" cy="128" r="6" fill="#5B8CFF" stroke="#5B8CFF" stroke-width="1.5"/><text x="1140.0" y="158" text-anchor="middle" font-size="12.5" fill="#E8ECF3">rekordbox</text><text x="1140.0" y="174" text-anchor="middle" font-size="12.5" fill="#E8ECF3">export</text>
+  </g>
 </svg>

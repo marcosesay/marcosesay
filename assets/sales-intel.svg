@@ -1,20 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="278" viewBox="0 0 1200 278">
-<rect width="1200" height="278" rx="14" fill="#000000"/>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<text x="64" y="84" font-size="32" font-weight="600" letter-spacing="-1" fill="#FFFFFF">Sales Intelligence</text>
-<text x="64" y="120" font-size="15" fill="#4C7DFF">View project →</text>
-<text x="64" y="150" font-size="14" fill="#8B909C">In production</text>
-<text x="440" y="62" font-size="17" font-weight="400" fill="#D4D7DE">Generates a seller-ready briefing for any account: executive summary,</text>
-<text x="440" y="88" font-size="17" font-weight="400" fill="#D4D7DE">competitive angle, sales plays and a proposed architecture diagram, with a</text>
-<text x="440" y="115" font-size="17" font-weight="400" fill="#D4D7DE">critic pass that suppresses hallucinated specs. In production on IBM Code</text>
-<text x="440" y="141" font-size="17" font-weight="400" fill="#D4D7DE">Engine and used by IBM field sellers.</text>
-<rect x="440" y="170" width="62" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="471" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">React</text>
-<rect x="510" y="170" width="99" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="560" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">TypeScript</text>
-<rect x="617" y="170" width="99" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="667" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">watsonx.ai</text>
-<rect x="724" y="170" width="99" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="773" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">Claude API</text>
-<rect x="831" y="170" width="48" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="855" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">MCP</text>
-<rect x="887" y="170" width="99" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="936" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">PostgreSQL</text>
-<rect x="993" y="170" width="106" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="1046" y="190" font-size="13" fill="#D4D7DE" text-anchor="middle">Code Engine</text>
-<rect x="440" y="208" width="70" height="30" rx="15" fill="#0B0B0D" stroke="#24262C"/><text x="475" y="228" font-size="13" fill="#D4D7DE" text-anchor="middle">Vitest</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" rx="16" fill="#0B0F17"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="16" fill="none" stroke="#1E2533"/>
+  <rect x="0" y="40" width="4" height="160" fill="#5B8CFF"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="60" y="74" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#5B8CFF">02 · SALES ENGINEERING</text>
+    <text x="58" y="124" font-size="44" font-weight="700" letter-spacing="-1" fill="#E8ECF3">Sales Intelligence</text>
+    <text x="60" y="160" font-size="18" fill="#C3CAD8">Seller-ready account briefings, grounded in live research.</text>
+    <text x="60" y="198" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1" fill="#8A93A6">REACT · TYPESCRIPT · NODE · POSTGRES · WATSONX · CLAUDE · MCP</text>
+    <rect x="698" y="58" width="54.8" height="24" rx="12" fill="none" stroke="#2A3346"/><circle cx="711" cy="70" r="3.5" fill="#3FD69B"/><text x="721" y="74.5" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8A93A6">LIVE</text>
+    <line x1="707.0" y1="128" x2="839.6666666666666" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="700.0" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="700.0" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Live</text><text x="700.0" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">research</text><line x1="853.6666666666666" y1="128" x2="986.3333333333333" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="846.6666666666666" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="846.6666666666666" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">watsonx +</text><text x="846.6666666666666" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">Claude</text><line x1="1000.3333333333333" y1="128" x2="1133.0" y2="128" stroke="#2A3346" stroke-width="1.5"/><circle cx="993.3333333333333" cy="128" r="6" fill="#0B0F17" stroke="#5B8CFF" stroke-width="1.5"/><text x="993.3333333333333" y="158" text-anchor="middle" font-size="12.5" fill="#8A93A6">Critic</text><text x="993.3333333333333" y="174" text-anchor="middle" font-size="12.5" fill="#8A93A6">pass</text><circle cx="1140.0" cy="128" r="6" fill="#5B8CFF" stroke="#5B8CFF" stroke-width="1.5"/><text x="1140.0" y="158" text-anchor="middle" font-size="12.5" fill="#E8ECF3">Briefing</text><text x="1140.0" y="174" text-anchor="middle" font-size="12.5" fill="#E8ECF3">+ MCP</text>
+  </g>
 </svg>
