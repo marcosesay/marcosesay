@@ -1,6 +1,7 @@
 <img src="assets/hero.svg" alt="Hi, I'm Marco Sesay. Data & AI Solutions Engineer at IBM in New York." width="100%">
 
 <p>
+  <a href="https://marcosesay.github.io"><img src="https://img.shields.io/badge/marcosesay.github.io-4C7DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/marcosesay"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4C7DFF" alt="LinkedIn"></a>
   <a href="https://substack.com/@marcosesay"><img src="https://img.shields.io/badge/Substack-000000?style=for-the-badge&logo=substack&logoColor=4C7DFF" alt="Substack"></a>
   <a href="mailto:marcosesay17@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4C7DFF" alt="Email"></a>
