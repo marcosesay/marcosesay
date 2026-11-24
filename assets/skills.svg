@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="498" viewBox="0 0 1200 498">
+<rect width="1200" height="498" rx="14" fill="#000000"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect x="64" y="32" width="1072" height="434" rx="8" fill="#0B0B0D" stroke="#FFFFFF"/>
+<line x1="64" y1="230" x2="1136" y2="230" stroke="#24262C"/>
+<line x1="421" y1="32" x2="421" y2="466" stroke="#24262C"/>
+<line x1="779" y1="32" x2="779" y2="466" stroke="#24262C"/>
+<text x="92" y="76" font-size="15" font-weight="600" fill="#4C7DFF">Data &amp; AI platforms</text>
+<rect x="92" y="96" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="141" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">watsonx.ai</text>
+<rect x="199" y="96" width="113" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="255" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">watsonx.data</text>
+<rect x="92" y="134" width="157" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="171" y="154" font-size="13" fill="#D4D7DE" text-anchor="middle">watsonx.governance</text>
+<rect x="257" y="134" width="106" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="310" y="154" font-size="13" fill="#D4D7DE" text-anchor="middle">Orchestrate</text>
+<rect x="92" y="172" width="92" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="138" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">DataStage</text>
+<rect x="192" y="172" width="84" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="234" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">DataStax</text>
+<rect x="284" y="172" width="92" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="330" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">Confluent</text>
+<text x="449" y="76" font-size="15" font-weight="600" fill="#4C7DFF">AI engineering</text>
+<rect x="449" y="96" width="48" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="473" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">RAG</text>
+<rect x="505" y="96" width="62" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="536" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">Evals</text>
+<rect x="576" y="96" width="92" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="621" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">AI agents</text>
+<rect x="675" y="96" width="48" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="699" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">MCP</text>
+<rect x="449" y="134" width="113" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="506" y="154" font-size="13" fill="#D4D7DE" text-anchor="middle">Tool calling</text>
+<rect x="571" y="134" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="620" y="154" font-size="13" fill="#D4D7DE" text-anchor="middle">Agents SDK</text>
+<rect x="449" y="172" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="499" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">Claude API</text>
+<rect x="556" y="172" width="62" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="587" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">Codex</text>
+<text x="807" y="76" font-size="15" font-weight="600" fill="#4C7DFF">Security &amp; governance</text>
+<rect x="807" y="96" width="113" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="863" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">IBM Guardium</text>
+<rect x="928" y="96" width="135" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="996" y="116" font-size="13" fill="#D4D7DE" text-anchor="middle">Data governance</text>
+<rect x="807" y="134" width="157" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="885" y="154" font-size="13" fill="#D4D7DE" text-anchor="middle">HIPAA architecture</text>
+<rect x="807" y="172" width="150" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="882" y="192" font-size="13" fill="#D4D7DE" text-anchor="middle">Lineage &amp; catalog</text>
+<text x="92" y="274" font-size="15" font-weight="600" fill="#4C7DFF">Infrastructure</text>
+<rect x="92" y="294" width="135" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="160" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">IBM Code Engine</text>
+<rect x="235" y="294" width="150" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="310" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">Red Hat OpenShift</text>
+<rect x="92" y="332" width="70" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="127" y="352" font-size="13" fill="#D4D7DE" text-anchor="middle">Docker</text>
+<rect x="170" y="332" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="219" y="352" font-size="13" fill="#D4D7DE" text-anchor="middle">PostgreSQL</text>
+<rect x="276" y="332" width="48" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="300" y="352" font-size="13" fill="#D4D7DE" text-anchor="middle">Git</text>
+<text x="449" y="274" font-size="15" font-weight="600" fill="#4C7DFF">Languages</text>
+<rect x="449" y="294" width="70" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="484" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">Python</text>
+<rect x="527" y="294" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="576" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">TypeScript</text>
+<rect x="634" y="294" width="48" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="658" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">SQL</text>
+<rect x="690" y="294" width="55" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="717" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">Java</text>
+<rect x="449" y="332" width="33" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="466" y="352" font-size="13" fill="#D4D7DE" text-anchor="middle">R</text>
+<text x="807" y="274" font-size="15" font-weight="600" fill="#4C7DFF">Field</text>
+<rect x="807" y="294" width="92" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="852" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">Workshops</text>
+<rect x="906" y="294" width="150" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="981" y="314" font-size="13" fill="#D4D7DE" text-anchor="middle">Proofs of concept</text>
+<rect x="807" y="332" width="230" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="922" y="352" font-size="13" fill="#D4D7DE" text-anchor="middle">Embedded solution agreements</text>
+<rect x="807" y="370" width="150" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="882" y="390" font-size="13" fill="#D4D7DE" text-anchor="middle">Value assessments</text>
+<rect x="964" y="370" width="99" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="1014" y="390" font-size="13" fill="#D4D7DE" text-anchor="middle">Salesforce</text>
+<rect x="807" y="408" width="92" height="30" rx="15" fill="#000000" stroke="#24262C"/><text x="852" y="428" font-size="13" fill="#D4D7DE" text-anchor="middle">SalesLoft</text>
+</g>
+</svg>
